@@ -13,7 +13,7 @@
 
 </div>
 
-Windows overlay for Moonlight Blade — boss tracking, loot filtering and martial arts clarity. Built for the wuxia open world where every stance and every drop shapes progression. **Top-10 wuxia MMO** by active player interest in 2026[reference:2].
+Windows overlay for Moonlight Blade — boss tracking, loot filtering and martial arts clarity. Built for the wuxia open world where every stance and every drop shapes progression. **Top-10 wuxia MMO** by active player interest in 2026.
 
 <details><summary>📑 <b>Contents</b></summary>
 
